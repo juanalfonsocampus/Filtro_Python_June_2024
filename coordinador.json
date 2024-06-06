@@ -1,0 +1,21 @@
+{ "coordinador":{
+    "rutas":{
+        "Ruta NodeJS":{
+            "Juan Mariño":{
+            "estudiantes": []}
+
+        },
+
+        "Ruta Java":{
+            "Teacher":{
+                "estudiantes": []}
+
+        },
+        "Ruta NetCore":{
+            "Maestro":{
+                "estudiantes": []}
+
+        }
+    }
+
+}}

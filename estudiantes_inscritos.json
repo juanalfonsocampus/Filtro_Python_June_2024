@@ -1,0 +1,55 @@
+{
+    "users": [
+        {
+            "Nombres": "Jos\u00e9",
+            "Documento": 1005152,
+            "Apellidos": "S\u00e1nchez",
+            "Direccion": "Poblado",
+            "Edad": 23,
+            "Acudiente": "Padre",
+            "Celular": "318",
+            "Fijo": "645",
+            "Estado": "inscrito",
+            "Riesgo": false,
+            "Aprob\u00f3": "",
+            "Nota1": 0,
+            "Nota2": 0,
+            "Nota3": 0,
+            "NotaF": 0
+        },
+        {
+            "Nombres": "Pedro",
+            "Documento": 1002530,
+            "Apellidos": "Pedraza",
+            "Direccion": "Portal",
+            "Edad": 29,
+            "Acudiente": "Madre",
+            "Celular": "319",
+            "Fijo": "341",
+            "Estado": "inscrito",
+            "Riesgo": false,
+            "Aprob\u00f3": "",
+            "Nota1": 0,
+            "Nota2": 0,
+            "Nota3": 0,
+            "NotaF": 0
+        },
+        {
+            "Nombres": "0",
+            "Documento": 0,
+            "Apellidos": "0",
+            "Direccion": "0",
+            "Edad": 0,
+            "Acudiente": "0",
+            "Celular": "0",
+            "Fijo": "0",
+            "Estado": "inscrito",
+            "Riesgo": false,
+            "Aprob\u00f3": "",
+            "Nota1": 0,
+            "Nota2": 0,
+            "Nota3": 0,
+            "NotaF": 0
+        }
+    ]
+}
